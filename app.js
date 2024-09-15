@@ -67,5 +67,5 @@ function start() {
         }
         body.style.background = `linear-gradient(45deg, rgba(4, 28, 50, 1) ${black}%, rgba(95, 30, 148, 1) ${purple}%)`
     }
-    setInterval(time, 10) 
+    setInterval(time, 1000) 
 }
