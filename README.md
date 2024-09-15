@@ -1,0 +1,2 @@
+# TimerPomodoro
+TimerPomodoro is a timer application based on the Pomodoro technique, designed to improve productivity through work and rest cycles. With this tool, you can set work intervals and breaks, helping you stay focused and manage your time more effectively.
